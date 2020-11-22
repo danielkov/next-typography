@@ -1,7 +1,7 @@
 {
   "name": "next-typography",
   "description": "Add Typography.js styles to your Next JS app in the simplest possible way.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "source": "src/index.tsx",
   "main": "dist/next-typography.js",
   "module": "dist/next-typography.modern.js",
