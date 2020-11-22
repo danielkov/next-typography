@@ -16,9 +16,3 @@ All notable changes to this project will be documented in this file. See [standa
 
 * create package for typography style in next 64f3aaa
 
-## 1.1.0 (2020-11-01)
-
-
-### Features
-
-* create package for typography style in next 64f3aaa
