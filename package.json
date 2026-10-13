@@ -27,7 +27,7 @@
     "@types/typography": "0.16.3",
     "husky": "5.0.9",
     "lint-staged": "10.5.3",
-    "microbundle": "0.13.0",
+    "microbundle": "0.15.1",
     "next": "10.0.6",
     "prettier": "2.2.1",
     "standard-version": "9.1.0",
